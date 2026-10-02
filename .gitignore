@@ -1,0 +1,7 @@
+# Exclude log files
+*.log
+
+# Exclude environment-specific configuration & OS files
+.DS_Store
+Thumbs.db
+*.env
